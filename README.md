@@ -1,4 +1,4 @@
-# projet_telecom - Datascience & IA - ESILV A3-ALT- TD C
+# projet_telecom - Datascience & IA - ESILV A3-ALT-TD C
 
 KACI Saïd
 JAOUEN Lilian
