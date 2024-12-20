@@ -1,0 +1,13 @@
+1° load data
+2° analyse (valeur aberrante, valeur nul,...)
+3° Nettoyage de ces valeurs
+Analyse 2
+Preprocess
+4°Features selection(choix des variables(celles qui ont beaucoup de poids par rapport au label))
+5° Train test split(en général 80%/20% => 80% d'apprentissage et 20% de test
+Standardisation
+6° choix du modèle (HCA,PCA,regression,...)
+Fine tuning
+7° train (entrainement)
+8° Évaluation du modèle => utiliser les 20% définis précédemment	
+9° 
